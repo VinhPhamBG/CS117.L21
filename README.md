@@ -7,7 +7,7 @@
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Tư duy tính toán - COMPUTATIONAL THINKING
-* **Mã môn học**: CS1147
+* **Mã môn học**: CS117
 * **Lớp học**: CS117.L21
 * **Năm học**: 2020-2021
 
